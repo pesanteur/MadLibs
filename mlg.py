@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 #  mlg.py - Reads in text files and lets the user add own text.
-#  Usage: python mlgenerator.py <filename> 
+#  Usage: python mlg.py <filename> 
 #  test file is madlibs.txt
 
 import sys, re, string
